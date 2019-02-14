@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZEE&#39;S BLOG</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hentai.re/"/>
+  <updated>2019-02-14T16:33:29.395Z</updated>
+  <id>https://hentai.re/</id>
+  
+  <author>
+    <name>ZEE</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://hentai.re/2019/02/15/test-1/"/>
+    <id>https://hentai.re/2019/02/15/test-1/</id>
+    <published>2019-02-14T16:33:29.000Z</published>
+    <updated>2019-02-14T16:33:29.395Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo更新主题以及小问题</title>
+    <link href="https://hentai.re/2018/03/06/Hexo%E6%9B%B4%E6%96%B0%E4%B8%BB%E9%A2%98%E4%BB%A5%E5%8F%8A%E5%B0%8F%E9%97%AE%E9%A2%98/"/>
+    <id>https://hentai.re/2018/03/06/Hexo更新主题以及小问题/</id>
+    <published>2018-03-06T04:44:27.000Z</published>
+    <updated>2018-03-06T05:42:41.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;处理被刷评论问题后顺便更新了下主题，唯一看得到的变化也就只有valine版本了&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="折腾记录" scheme="https://hentai.re/categories/%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="hexo" scheme="https://hentai.re/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于被刷评论</title>
+    <link href="https://hentai.re/2018/03/06/%E5%85%B3%E4%BA%8E%E8%A2%AB%E5%88%B7%E8%AF%84%E8%AE%BA/"/>
+    <id>https://hentai.re/2018/03/06/关于被刷评论/</id>
+    <published>2018-03-06T04:44:27.000Z</published>
+    <updated>2018-03-06T04:53:22.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;分两次被刷了七万多条评论，我这种小站实在想不到被人针对的理由，如果你只是玩乐之心还是请收手吧。&lt;/p&gt;
+&lt;p&gt;PS.
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于重装系统后hexo的解决方案</title>
+    <link href="https://hentai.re/2018/01/31/%E5%85%B3%E4%BA%8E%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E5%90%8Ehexo%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <id>https://hentai.re/2018/01/31/关于重装系统后hexo的解决方案/</id>
+    <published>2018-01-31T02:39:55.000Z</published>
+    <updated>2018-01-31T03:52:06.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;其实很多人早就把Hexo通过分支或更多形式放到云端了，因为这么可以更好的解决多设备问题，当然也有一部分像我这样依然在本地存放的。这就避免不了电脑重装或是更换设备之类的问题，这之后该怎么做呢？如果你是跟我一样完全备份了hexo文件夹的，基本步骤如下。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="折腾记录" scheme="https://hentai.re/categories/%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="hexo" scheme="https://hentai.re/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>春宵苦短，少女前进吧！</title>
+    <link href="https://hentai.re/2017/11/05/chunxiaokuduan/"/>
+    <id>https://hentai.re/2017/11/05/chunxiaokuduan/</id>
+    <published>2017-11-05T03:04:47.000Z</published>
+    <updated>2018-05-02T09:06:28.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;不太会写观后感，也没怎么写过，但如此喜欢的作品还是想写一写的，所以想到哪里写到哪里，没什么逻辑，还请谅解XD&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="食用感受" scheme="https://hentai.re/categories/%E9%A3%9F%E7%94%A8%E6%84%9F%E5%8F%97/"/>
+    
+    
+      <category term="动漫" scheme="https://hentai.re/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+      <category term="观后感" scheme="https://hentai.re/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo中演示代码效果</title>
+    <link href="https://hentai.re/2017/10/22/Hexo%E4%B8%AD%E6%BC%94%E7%A4%BA%E4%BB%A3%E7%A0%81%E6%95%88%E6%9E%9C/"/>
+    <id>https://hentai.re/2017/10/22/Hexo中演示代码效果/</id>
+    <published>2017-10-22T06:49:05.000Z</published>
+    <updated>2017-10-22T08:01:07.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hexo的一大特色就是用Markdown写文章内容，编译后会md会自动专为html代码并套用主题指定的模板。&lt;/p&gt;
+&lt;p&gt;那么问题来了，如果我想在文章页面演示一段超出md范围的html代码的效果该怎么办呢？&lt;/p&gt;
+&lt;p&gt;直接写？那肯定不是个好的方法，首先我们要写在手动套用模版，然后还要修改很多地方，大概五六个文件，但最后hexo clean之后，一切归〇。&lt;/p&gt;
+&lt;p&gt;直接引用？那肯定也不行，因为hexo会帮你把那些代码编译到文章的内容上去，别人能看到代码而不是效果。&lt;/p&gt;
+&lt;p&gt;所以该怎么办呢？&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="经验分享" scheme="https://hentai.re/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="hexo" scheme="https://hentai.re/tags/hexo/"/>
+    
+      <category term="code" scheme="https://hentai.re/tags/code/"/>
+    
+      <category term="折腾" scheme="https://hentai.re/tags/%E6%8A%98%E8%85%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给Hexo添加个一言（hitokoto）</title>
+    <link href="https://hentai.re/2017/10/22/%E7%BB%99hexo%E6%B7%BB%E5%8A%A0%E4%B8%AA%E4%B8%80%E8%A8%80/"/>
+    <id>https://hentai.re/2017/10/22/给hexo添加个一言/</id>
+    <published>2017-10-22T05:19:05.000Z</published>
+    <updated>2017-11-05T03:15:39.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;因为各种乱七八糟的想法，决定给博客加个一言，但半天没找到合适的位置来放它，最终决定放在最不显眼的地方——页脚。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="折腾记录" scheme="https://hentai.re/categories/%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="hexo" scheme="https://hentai.re/tags/hexo/"/>
+    
+      <category term="hitokoto" scheme="https://hentai.re/tags/hitokoto/"/>
+    
+      <category term="一言" scheme="https://hentai.re/tags/%E4%B8%80%E8%A8%80/"/>
+    
+      <category term="blog" scheme="https://hentai.re/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些图床</title>
+    <link href="https://hentai.re/2017/10/19/%E4%B8%80%E4%BA%9B%E5%9B%BE%E5%BA%8A/"/>
+    <id>https://hentai.re/2017/10/19/一些图床/</id>
+    <published>2017-10-19T03:14:30.000Z</published>
+    <updated>2017-10-22T07:43:09.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;说到图床，其实在“微博是个好图床”出现后，我一直在用的就是微博的图床，连现在博客侧栏的头像，都是用的这个，最近换上了&lt;a href=&quot;https://portal.qiniu.com/signup?code=3lqaidfz8j7te&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;七牛云&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;之所以用图床，无非是因为网上的图片人家做过防盗链，本地的图片又不想放到那容量和流量少得可怜的主机。对我来说，更重要的问题是我不想换主机的时候要搬一大堆图片。&lt;/p&gt;
+&lt;p&gt;所以在大家的需求下，好多图床服务诞生了，多是免费+收费的性质，却都看起来不太可靠。&lt;/p&gt;
+&lt;p&gt;所以今天又重新寻找了一番新的图床方案。&lt;/p&gt;
+&lt;p&gt;下面推荐一些可靠的图床，其中的不可靠是相对而言的。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="经验分享" scheme="https://hentai.re/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="折腾" scheme="https://hentai.re/tags/%E6%8A%98%E8%85%BE/"/>
+    
+      <category term="图床" scheme="https://hentai.re/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo折腾记录</title>
+    <link href="https://hentai.re/2017/10/17/Hexo%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/"/>
+    <id>https://hentai.re/2017/10/17/Hexo折腾记录/</id>
+    <published>2017-10-17T05:05:53.000Z</published>
+    <updated>2017-10-19T04:58:22.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;几年前被人建议用Hexo博客程序，我以麻烦和功能少的原因拒绝了。&lt;/p&gt;
+&lt;p&gt;而后我从WordPress换成了Typecho，一直到两个月前，Typecho还在服役中。这之后服务器断了，我也没腾出时间折腾。&lt;/p&gt;
+&lt;p&gt;但最根本的原因还是我大概有一年没有更新博客了，更没有余力去管博客是否还能正常访问。&lt;/p&gt;
+&lt;p&gt;直到昨天，我偶然看到一个UI不错的博客，恰好就是Hexo，突然想起自己的博客还没有修复，不如搭建个Hexo好了。&lt;/p&gt;
+&lt;p&gt;于是怀着一劳永逸的目标，我开始了搭建。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="折腾记录" scheme="https://hentai.re/categories/%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="hexo" scheme="https://hentai.re/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新的开始</title>
+    <link href="https://hentai.re/2017/10/17/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>https://hentai.re/2017/10/17/新的开始/</id>
+    <published>2017-10-17T05:04:19.000Z</published>
+    <updated>2017-10-22T07:47:04.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;新的开始，博客归零。&lt;/p&gt;
+&lt;p&gt;留个位置，等有空考虑做个之前博客的归档。&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="生活随录" scheme="https://hentai.re/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E5%BD%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>TEST</title>
+    <link href="https://hentai.re/2017/10/17/test/"/>
+    <id>https://hentai.re/2017/10/17/test/</id>
+    <published>2017-10-17T04:31:51.000Z</published>
+    <updated>2018-05-20T14:29:04.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Test&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

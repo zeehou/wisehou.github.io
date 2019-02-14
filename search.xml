@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2019%2F02%2F15%2Ftest-1%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo更新主题以及小问题]]></title>
+    <url>%2F2018%2F03%2F06%2FHexo%E6%9B%B4%E6%96%B0%E4%B8%BB%E9%A2%98%E4%BB%A5%E5%8F%8A%E5%B0%8F%E9%97%AE%E9%A2%98%2F</url>
+    <content type="text"><![CDATA[处理被刷评论问题后顺便更新了下主题，唯一看得到的变化也就只有valine版本了]]></content>
+      <categories>
+        <category>折腾记录</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[关于被刷评论]]></title>
+    <url>%2F2018%2F03%2F06%2F%E5%85%B3%E4%BA%8E%E8%A2%AB%E5%88%B7%E8%AF%84%E8%AE%BA%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[关于重装系统后hexo的解决方案]]></title>
+    <url>%2F2018%2F01%2F31%2F%E5%85%B3%E4%BA%8E%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E5%90%8Ehexo%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%2F</url>
+    <content type="text"><![CDATA[其实很多人早就把Hexo通过分支或更多形式放到云端了，因为这么可以更好的解决多设备问题，当然也有一部分像我这样依然在本地存放的。这就避免不了电脑重装或是更换设备之类的问题，这之后该怎么做呢？如果你是跟我一样完全备份了hexo文件夹的，基本步骤如下。]]></content>
+      <categories>
+        <category>折腾记录</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[春宵苦短，少女前进吧！]]></title>
+    <url>%2F2017%2F11%2F05%2Fchunxiaokuduan%2F</url>
+    <content type="text"><![CDATA[不太会写观后感，也没怎么写过，但如此喜欢的作品还是想写一写的，所以想到哪里写到哪里，没什么逻辑，还请谅解XD]]></content>
+      <categories>
+        <category>食用感受</category>
+      </categories>
+      <tags>
+        <tag>动漫</tag>
+        <tag>观后感</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo中演示代码效果]]></title>
+    <url>%2F2017%2F10%2F22%2FHexo%E4%B8%AD%E6%BC%94%E7%A4%BA%E4%BB%A3%E7%A0%81%E6%95%88%E6%9E%9C%2F</url>
+    <content type="text"><![CDATA[Hexo的一大特色就是用Markdown写文章内容，编译后会md会自动专为html代码并套用主题指定的模板。 那么问题来了，如果我想在文章页面演示一段超出md范围的html代码的效果该怎么办呢？ 直接写？那肯定不是个好的方法，首先我们要写在手动套用模版，然后还要修改很多地方，大概五六个文件，但最后hexo clean之后，一切归〇。 直接引用？那肯定也不行，因为hexo会帮你把那些代码编译到文章的内容上去，别人能看到代码而不是效果。 所以该怎么办呢？]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>code</tag>
+        <tag>折腾</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[给Hexo添加个一言（hitokoto）]]></title>
+    <url>%2F2017%2F10%2F22%2F%E7%BB%99hexo%E6%B7%BB%E5%8A%A0%E4%B8%AA%E4%B8%80%E8%A8%80%2F</url>
+    <content type="text"><![CDATA[因为各种乱七八糟的想法，决定给博客加个一言，但半天没找到合适的位置来放它，最终决定放在最不显眼的地方——页脚。]]></content>
+      <categories>
+        <category>折腾记录</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>hitokoto</tag>
+        <tag>一言</tag>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[一些图床]]></title>
+    <url>%2F2017%2F10%2F19%2F%E4%B8%80%E4%BA%9B%E5%9B%BE%E5%BA%8A%2F</url>
+    <content type="text"><![CDATA[说到图床，其实在“微博是个好图床”出现后，我一直在用的就是微博的图床，连现在博客侧栏的头像，都是用的这个，最近换上了七牛云。 之所以用图床，无非是因为网上的图片人家做过防盗链，本地的图片又不想放到那容量和流量少得可怜的主机。对我来说，更重要的问题是我不想换主机的时候要搬一大堆图片。 所以在大家的需求下，好多图床服务诞生了，多是免费+收费的性质，却都看起来不太可靠。 所以今天又重新寻找了一番新的图床方案。 下面推荐一些可靠的图床，其中的不可靠是相对而言的。]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>折腾</tag>
+        <tag>图床</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo折腾记录]]></title>
+    <url>%2F2017%2F10%2F17%2FHexo%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95%2F</url>
+    <content type="text"><![CDATA[前言几年前被人建议用Hexo博客程序，我以麻烦和功能少的原因拒绝了。 而后我从WordPress换成了Typecho，一直到两个月前，Typecho还在服役中。这之后服务器断了，我也没腾出时间折腾。 但最根本的原因还是我大概有一年没有更新博客了，更没有余力去管博客是否还能正常访问。 直到昨天，我偶然看到一个UI不错的博客，恰好就是Hexo，突然想起自己的博客还没有修复，不如搭建个Hexo好了。 于是怀着一劳永逸的目标，我开始了搭建。]]></content>
+      <categories>
+        <category>折腾记录</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[新的开始]]></title>
+    <url>%2F2017%2F10%2F17%2F%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>生活随录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[TEST]]></title>
+    <url>%2F2017%2F10%2F17%2Ftest%2F</url>
+    <content type="text"><![CDATA[Test]]></content>
+  </entry>
+</search>
