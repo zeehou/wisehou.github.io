@@ -187,7 +187,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;说到图床，其实在“微博是个好图床”出现后，我一直在用的就是微博的图床，连现在博客侧栏的头像，都是用的这个，最近换上了&lt;a href=&quot;https://portal.qiniu.com/signup?code=3lqaidfz8j7te&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;七牛云&lt;/a&gt;。&lt;/p&gt;
+      &lt;p&gt;说到图床，其实在“微博是个好图床”出现后，我一直在用的就是微博的图床，连现在博客侧栏的头像，都是用的这个，最近换上了&lt;a href=&quot;https://portal.qiniu.com/signup?code=3lqaidfz8j7te&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;七牛云&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;之所以用图床，无非是因为网上的图片人家做过防盗链，本地的图片又不想放到那容量和流量少得可怜的主机。对我来说，更重要的问题是我不想换主机的时候要搬一大堆图片。&lt;/p&gt;
 &lt;p&gt;所以在大家的需求下，好多图床服务诞生了，多是免费+收费的性质，却都看起来不太可靠。&lt;/p&gt;
 &lt;p&gt;所以今天又重新寻找了一番新的图床方案。&lt;/p&gt;
